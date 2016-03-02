@@ -1,3 +1,3 @@
 # hello-world
-My first repository on GitHub.
-My first hands on abt git
+My first repository on GITHUB.
+My first hands on abt GIT
